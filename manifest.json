@@ -1,0 +1,181 @@
+{
+ "version": 1,
+ "note": "Generated from the voice folders in client/assets/audio (originals untouched). Mono MP3 64 kbps.",
+ "characters": {
+  "vanguard": {
+   "matchStart": [
+    {
+     "file": "voice/vanguard/matchStart-1.mp3",
+     "duration": 29.81,
+     "source": "vanguard voice/vanguard-Match Start.wav"
+    }
+   ],
+   "enemyContact": [
+    {
+     "file": "voice/vanguard/enemyContact-1.mp3",
+     "duration": 28.1,
+     "source": "vanguard voice/vanguard-enemycontact.wav"
+    }
+   ],
+   "explore": [
+    {
+     "file": "voice/vanguard/explore-1.mp3",
+     "duration": 26.74,
+     "source": "vanguard voice/vanguard-explore.wav"
+    }
+   ],
+   "afk": [
+    {
+     "file": "voice/vanguard/afk-1.mp3",
+     "duration": 30.29,
+     "source": "vanguard voice/afk voice-vanguard/AFK voice-vanguard.wav"
+    },
+    {
+     "file": "voice/vanguard/afk-2.mp3",
+     "duration": 26.02,
+     "source": "vanguard voice/afk voice-vanguard/afk voice-vanguard2.wav"
+    },
+    {
+     "file": "voice/vanguard/afk-3.mp3",
+     "duration": 23.21,
+     "source": "vanguard voice/afk voice-vanguard/afk voice-vanguard3.wav"
+    }
+   ],
+   "afkReturn": [
+    {
+     "file": "voice/vanguard/afkReturn-1.mp3",
+     "duration": 30.7,
+     "source": "vanguard voice/voice abis afk/Oh, You're Back!-vanguard.wav"
+    }
+   ],
+   "damage": [
+    {
+     "file": "voice/vanguard/damage-1.mp3",
+     "duration": 13.18,
+     "source": "vanguard voice/taking damage voice/vanguard-taking damage.wav"
+    }
+   ],
+   "criticalHp": [
+    {
+     "file": "voice/vanguard/criticalHp-1.mp3",
+     "duration": 14.21,
+     "source": "vanguard voice/taking damage voice/vanguard-criticalhp.wav"
+    }
+   ],
+   "die": [
+    {
+     "file": "voice/vanguard/die-1.mp3",
+     "duration": 14.54,
+     "source": "vanguard voice/taking damage voice/vanguard-die.wav"
+    }
+   ],
+   "healPrompt": [
+    {
+     "file": "voice/vanguard/healPrompt-1.mp3",
+     "duration": 23.33,
+     "source": "vanguard voice/voice huruh heal/vanguard-Emergency Healing.wav"
+    },
+    {
+     "file": "voice/vanguard/healPrompt-2.mp3",
+     "duration": 19.37,
+     "source": "vanguard voice/voice huruh heal/vanguard-HP di bawah 25% — Press H to Heal.wav"
+    },
+    {
+     "file": "voice/vanguard/healPrompt-3.mp3",
+     "duration": 26.02,
+     "source": "vanguard voice/voice huruh heal/vanguard-Impatient Commander.wav"
+    }
+   ]
+  },
+  "ghost": {
+   "matchStart": [
+    {
+     "file": "voice/ghost/matchStart-1.mp3",
+     "duration": 34.82,
+     "source": "ghost voice/Match Start-ghost.mp3"
+    }
+   ],
+   "enemyContact": [
+    {
+     "file": "voice/ghost/enemyContact-1.mp3",
+     "duration": 27.62,
+     "source": "ghost voice/Enemy Contact-ghost.mp3"
+    }
+   ],
+   "explore": [
+    {
+     "file": "voice/ghost/explore-1.mp3",
+     "duration": 26.33,
+     "source": "ghost voice/ghostvoice-Exploration.mp3"
+    }
+   ],
+   "afk": [
+    {
+     "file": "voice/ghost/afk-1.mp3",
+     "duration": 22.66,
+     "source": "ghost voice/afk voice ghost/Are You Still There-ghost.mp3"
+    },
+    {
+     "file": "voice/ghost/afk-2.mp3",
+     "duration": 31.61,
+     "source": "ghost voice/afk voice ghost/Enjoying the Silence-ghost.mp3"
+    },
+    {
+     "file": "voice/ghost/afk-3.mp3",
+     "duration": 30.65,
+     "source": "ghost voice/afk voice ghost/The Invisible Player-ghost.mp3"
+    }
+   ],
+   "afkReturn": [
+    {
+     "file": "voice/ghost/afkReturn-1.mp3",
+     "duration": 22.97,
+     "source": "ghost voice/wellcome setelah afk-ghost/Back From the Shadows-ghost.mp3"
+    },
+    {
+     "file": "voice/ghost/afkReturn-2.mp3",
+     "duration": 33.22,
+     "source": "ghost voice/wellcome setelah afk-ghost/The Master of Disappearing-ghost.mp3"
+    },
+    {
+     "file": "voice/ghost/afkReturn-3.mp3",
+     "duration": 28.25,
+     "source": "ghost voice/wellcome setelah afk-ghost/ghost-Took Your Time.mp3"
+    }
+   ],
+   "damageLight": [
+    {
+     "file": "voice/ghost/damageLight-1.mp3",
+     "duration": 18.98,
+     "source": "ghost voice/taking damage ghost/Taking Damage (Light)-ghost.mp3"
+    }
+   ],
+   "damageMedium": [
+    {
+     "file": "voice/ghost/damageMedium-1.mp3",
+     "duration": 20.9,
+     "source": "ghost voice/taking damage ghost/Taking Damage (Medium)-ghost.mp3"
+    }
+   ],
+   "damageHeavy": [
+    {
+     "file": "voice/ghost/damageHeavy-1.mp3",
+     "duration": 22.49,
+     "source": "ghost voice/taking damage ghost/Heavy Damage (heavry)-ghost.mp3"
+    }
+   ],
+   "healPrompt": [
+    {
+     "file": "voice/ghost/healPrompt-1.mp3",
+     "duration": 23.78,
+     "source": "ghost voice/voice suruh heal/Are You Blind-ghost.mp3"
+    },
+    {
+     "file": "voice/ghost/healPrompt-2.mp3",
+     "duration": 25.54,
+     "source": "ghost voice/voice suruh heal/Stay Alive-ghost.mp3"
+    }
+   ]
+  }
+ }
+}
