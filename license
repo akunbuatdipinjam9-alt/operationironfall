@@ -1,80 +1,79 @@
-# Afternight Games Asset License (ANAL) v1.0
+# Afternight Games Asset License (ANAL) v1.1
 
 Copyright (c) 2026 Afternight Games.
 
-All rights reserved except as expressly granted under this license.
+## 1. License Scope
 
-## 1. Ownership
+This license applies exclusively to original weapon and character assets owned by Afternight Games.
 
-All original game assets owned by Afternight Games remain the intellectual property of Afternight Games.
+Covered assets include:
 
-This includes original 3D models, textures, animations, sound effects, artwork, and other eligible game assets.
+- Original weapon models and designs.
+- Original character and operator models.
+- Textures, rigs, and animations directly associated with licensed weapon or character models.
 
-Third-party content is excluded unless Afternight Games has the legal right to sublicense it.
+Other assets, including maps, environments, music, sound effects, and voice recordings, are not covered by this commercial asset license.
 
-## 2. Personal and Non-Commercial Use
+## 2. Non-Commercial Use
 
-Individuals may use original Afternight Games assets for personal, educational, and non-commercial projects without paying licensing fees.
+Individuals may use and modify covered assets for personal, educational, and non-commercial projects without paying licensing fees.
 
-Users must retain applicable copyright notices and must not sell or redistribute the original assets as standalone asset packs.
+Redistribution must retain the applicable copyright notices.
 
-## 3. Studio and Commercial Licensing
+Selling or redistributing the original assets as standalone asset packs is not permitted without separate written permission.
 
-Any company or game studio wishing to use original Afternight Games assets must obtain a separate asset license.
+## 3. Commercial Licensing
 
-Commercial use by other individuals or organizations also requires a license.
+Commercial use of covered weapon and character assets requires a paid license from Afternight Games.
 
-The standard licensing fee is:
+**Standard licensing fee: IDR 20,000,000 per individual asset per month.**
 
-**IDR 20,000,000 per asset per month.**
+Each distinct weapon or character model counts as one licensed asset.
 
-Each separately identified licensed asset is charged individually.
+Associated textures, rigs, and animations supplied as part of that asset do not incur additional charges.
 
-For example:
-
-- 1 asset: IDR 20,000,000/month
-- 2 assets: IDR 40,000,000/month
-- 5 assets: IDR 100,000,000/month
-- 10 assets: IDR 200,000,000/month
-
-An asset may consist of multiple related files if explicitly defined as one licensed asset in the written agreement.
-
-## 4. Payment and Activation
+## 4. Payment and Duration
 
 Licensing fees must be paid in advance.
 
-A commercial asset license becomes active only after payment has been confirmed and the licensing agreement has been accepted by both parties.
+Commercial usage rights begin only after the licensing agreement is accepted and payment is confirmed.
 
-The license renews monthly only upon payment or as otherwise specified in the written agreement.
+Each license is valid for one month and may be renewed.
 
 ## 5. Attribution
 
-Commercial products using licensed Afternight Games assets must clearly display:
+Commercial projects using licensed assets must display:
 
-**"Assets licensed from Afternight Games"**
+**"Weapon and character assets licensed from Afternight Games"**
 
-The credit must be reasonably visible in the game's credits, About page, or official website.
+This credit must appear in an accessible location, such as the game's credits, About page, or official website.
 
-## 6. License Expiration
+## 6. Ownership and Restrictions
 
-If a license expires without renewal, the licensee must stop further use and distribution of the licensed assets unless a separate written agreement permits otherwise.
-
-The agreement must specify how previously distributed products and existing customer copies are handled after expiration.
-
-## 7. Restrictions
+Afternight Games retains ownership of its original licensed assets.
 
 Licensees may not:
 
-- Claim ownership of original Afternight Games assets.
-- Resell licensed assets as standalone asset packs without permission.
-- Sublicense assets to third parties without written authorization.
-- Use Afternight Games branding to imply official endorsement.
+- Claim ownership of the original assets.
+- Resell the assets as standalone asset packs.
+- Sublicense the assets without written permission.
+- Imply official endorsement by Afternight Games.
 
-## 8. Source Code Licensing
+Third-party assets are excluded unless Afternight Games has the necessary sublicensing rights.
 
-This asset license is separate from the Afternight Games source code license.
+## 7. Other Assets and Source Code
 
-Permission to use Operation Ironfall's source code does not automatically grant commercial rights to its game assets.
+This license does not impose the commercial asset licensing fee on environments, audio, maps, or other excluded materials.
+
+Their use remains subject to their respective licenses and permissions.
+
+Source code is governed separately by the Afternight Games source code license.
+
+## 8. Expiration
+
+Upon expiration, the licensee must cease further commercial use and distribution of the licensed assets unless otherwise agreed in writing.
+
+Rights concerning previously distributed products must be specified in the individual commercial licensing agreement.
 
 ## 9. Disclaimer
 
@@ -82,6 +81,6 @@ THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, TO THE EXTENT P
 
 ---
 
-**Afternight Games**
+Afternight Games
 
-Asset License Version 1.0 — 2026
+Asset License Version 1.1 — 2026
