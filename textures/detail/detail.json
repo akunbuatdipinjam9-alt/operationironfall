@@ -1,0 +1,14 @@
+{
+ "tileMetres": {
+  "concrete": 1.6,
+  "metal": 1.0,
+  "asphalt": 2.4
+ },
+ "sizes": [
+  512,
+  1024,
+  2048
+ ],
+ "format": "webp",
+ "note": "Original procedural micro detail. 1024/512 are downsampled from the 2048 source."
+}
